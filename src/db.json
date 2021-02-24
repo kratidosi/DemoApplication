@@ -1,0 +1,19 @@
+{"data":[
+    {
+        "id": 1,
+         "staticName" : "AboutUsPage",
+         "staticContent" : ""
+    },
+    {
+        "id": 2,
+        "staticName" : "ContactUsPage",
+        "staticContent" : ""
+    },
+    {
+        "id": 3,
+        "staticName" : "CareerUsPage",
+        "staticContent" : ""
+    }
+
+]
+}

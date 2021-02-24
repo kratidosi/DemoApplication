@@ -1,0 +1,22 @@
+{
+  "data": [
+    {
+      "staticName": "AboutUsPage",
+      "staticContent": "This is About Page. This page Gives you details about the website.So, if you want to see this type of functionality then you have to choose about us page.",
+      "id": 1,
+      "picture": ""
+    },
+    {
+      "staticName": "ContactUsPage",
+      "staticContent": "This is Contact Page. This page Gives you details about the contact related.So, if you want to see this type of functionality then you have to choose contact us page.",
+      "picture": "",
+      "id": 2
+    },
+    {
+      "staticName": "CareerUsPage",
+      "staticContent": "This is Career Page. This page Gives you details about the career related.So, if you want to see this type of functionality then you have to choose career us page.",
+      "id": 3,
+      "picture": ""
+    }
+  ]
+}
